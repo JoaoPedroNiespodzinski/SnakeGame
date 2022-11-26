@@ -1,0 +1,12 @@
+*{
+    box-sizing: border-box;
+}
+html, body{
+    margin: 0;
+    padding: 0;
+}
+#canvas{
+    /* width: 500px;
+    aspect-ratio: 1; */
+    border: 5px solid black;
+}
